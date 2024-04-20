@@ -1,0 +1,6 @@
+
+node_modules/
+ammo.js
+ammo.wasm.js
+ammo.wasm.wasm
+aframe-physics-system.js
